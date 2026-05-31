@@ -8,10 +8,12 @@ Nothing now.
 
 # Control (управление)
 Hold in normal mode = open settings.         
-Зажать в обычном режиме = открыть настройки.       
+Зажать в обычном режиме = открыть настройки.  <img width="4096" height="2304" alt="IMG_20260531_141519727" src="https://github.com/user-attachments/assets/54490ca9-663b-4fff-b0ea-c5a07ad84bde" />
+
 Click in normal = hold oscilloscope.        
 Нажать в обычном режиме = остановить осциллограф.            
 Click in settings = change value.               
 Нажать в настройках = изменение значения.          
 Hold in settings = switch.              
-Зажать в настройках = переключение.          
+Зажать в настройках = переключение.
+<img width="4096" height="2304" alt="IMG_20260531_141525050" src="https://github.com/user-attachments/assets/8c2d0665-0294-43af-b6b7-430e7a841733" />
