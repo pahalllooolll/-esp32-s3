@@ -5,11 +5,11 @@ My oscilloscope on esp32 s3.
 Nothing now.
 Ничего.
 # Control (управление)
-Hold in normal mode = open settings.
-Зажать в обычном режиме = открыть настройки.
-Click in normal = hold oscilloscope.
-Нажать в обычном режиме = остановить осциллограф.
-Click in settings = change value.
-Нажать в настройках = изменение значения.
-Hold in settings = switch.
-Зажать в настройках = переключение.
+Hold in normal mode = open settings.         
+Зажать в обычном режиме = открыть настройки.       
+Click in normal = hold oscilloscope.        
+Нажать в обычном режиме = остановить осциллограф.            
+Click in settings = change value.               
+Нажать в настройках = изменение значения.          
+Hold in settings = switch.              
+Зажать в настройках = переключение.          
