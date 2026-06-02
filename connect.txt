@@ -1,0 +1,15 @@
+vcc  3v
+gnd  gnd
+MOSI 11  //sda
+SCLK 12  //scl
+CS   10  // Chip select control pin
+DC    6  // Data Comm
+RST   7  // Reset pin (could connect to RST pin)
+blk  38
+
+BTN_UP    41
+BTN_DOWN  40
+BTN_LEFT  39
+BTN_RIGHT 37
+
+hz generator pin 42  
